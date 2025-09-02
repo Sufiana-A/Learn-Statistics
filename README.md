@@ -40,6 +40,7 @@ This project requires the following:
   - [NumPy](https://numpy.org/)  
   - [Pandas](https://pandas.pydata.org/)  
   - [Matplotlib](https://matplotlib.org/)
+    
   **Optional (for running `.ipynb` files):**  
   - [Jupyter Notebook](https://jupyter.org/) or [JupyterLab](https://jupyter.org/install)  
 
