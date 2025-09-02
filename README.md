@@ -65,5 +65,6 @@ pip install numpy pandas matplotlib
 
 ## Usage
 Run the project with:
+
 Jupyter Notebook: open .ipynb file then run
 
